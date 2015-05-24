@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Start Bootstrap Clean Blog</title>
+    <link>http://humboldtux.github.io/sbcb-demo/about/</link>
+    <description>Recent content in Abouts on Start Bootstrap Clean Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Code released under the Apache 2.0 license..</copyright>
+    <lastBuildDate>Sun, 24 May 2015 18:51:50 +0200</lastBuildDate>
+    <atom:link href="http://humboldtux.github.io/sbcb-demo/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>about</title>
+      <link>http://humboldtux.github.io/sbcb-demo/about/</link>
+      <pubDate>Sun, 24 May 2015 18:51:50 +0200</pubDate>
+      
+      <guid>http://humboldtux.github.io/sbcb-demo/about/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe nostrum ullam eveniet pariatur voluptates odit, fuga atque ea nobis sit soluta odio, adipisci quas excepturi maxime quae totam ducimus consectetur?&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius praesentium recusandae illo eaque architecto error, repellendus iusto reprehenderit, doloribus, minus sunt. Numquam at quae voluptatum in officia voluptas voluptatibus, minus!&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum molestiae debitis nobis, quod sapiente qui voluptatum, placeat magni repudiandae accusantium fugit quas labore non rerum possimus, corrupti enim modi! Et.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
