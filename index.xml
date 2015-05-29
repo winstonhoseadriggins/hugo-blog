@@ -44,24 +44,6 @@
     </item>
     
     <item>
-      <title>post 02</title>
-      <link>http://humboldtux.github.io/sbcb-demo/post/post-02/</link>
-      <pubDate>Sun, 24 May 2015 18:52:17 +0200</pubDate>
-      
-      <guid>http://humboldtux.github.io/sbcb-demo/post/post-02/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>post 05</title>
-      <link>http://humboldtux.github.io/sbcb-demo/post/post-05/</link>
-      <pubDate>Sun, 24 May 2015 18:52:17 +0200</pubDate>
-      
-      <guid>http://humboldtux.github.io/sbcb-demo/post/post-05/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>post 01</title>
       <link>http://humboldtux.github.io/sbcb-demo/post/post-01/</link>
       <pubDate>Sun, 24 May 2015 18:52:17 +0200</pubDate>
@@ -1164,11 +1146,11 @@ $ vi themes/zafta/layouts/_default/single.html
     </item>
     
     <item>
-      <title>post 08</title>
-      <link>http://humboldtux.github.io/sbcb-demo/post/post-08/</link>
+      <title>post 02</title>
+      <link>http://humboldtux.github.io/sbcb-demo/post/post-02/</link>
       <pubDate>Sun, 24 May 2015 18:52:17 +0200</pubDate>
       
-      <guid>http://humboldtux.github.io/sbcb-demo/post/post-08/</guid>
+      <guid>http://humboldtux.github.io/sbcb-demo/post/post-02/</guid>
       <description></description>
     </item>
     
@@ -1178,6 +1160,15 @@ $ vi themes/zafta/layouts/_default/single.html
       <pubDate>Sun, 24 May 2015 18:52:17 +0200</pubDate>
       
       <guid>http://humboldtux.github.io/sbcb-demo/post/post-04/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>post 05</title>
+      <link>http://humboldtux.github.io/sbcb-demo/post/post-05/</link>
+      <pubDate>Sun, 24 May 2015 18:52:17 +0200</pubDate>
+      
+      <guid>http://humboldtux.github.io/sbcb-demo/post/post-05/</guid>
       <description></description>
     </item>
     
@@ -1200,20 +1191,29 @@ $ vi themes/zafta/layouts/_default/single.html
     </item>
     
     <item>
-      <title>post 10</title>
-      <link>http://humboldtux.github.io/sbcb-demo/post/post-10/</link>
-      <pubDate>Sun, 24 May 2015 18:52:17 +0200</pubDate>
-      
-      <guid>http://humboldtux.github.io/sbcb-demo/post/post-10/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>post 07</title>
       <link>http://humboldtux.github.io/sbcb-demo/post/post-07/</link>
       <pubDate>Sun, 24 May 2015 18:52:17 +0200</pubDate>
       
       <guid>http://humboldtux.github.io/sbcb-demo/post/post-07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>post 08</title>
+      <link>http://humboldtux.github.io/sbcb-demo/post/post-08/</link>
+      <pubDate>Sun, 24 May 2015 18:52:17 +0200</pubDate>
+      
+      <guid>http://humboldtux.github.io/sbcb-demo/post/post-08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>post 10</title>
+      <link>http://humboldtux.github.io/sbcb-demo/post/post-10/</link>
+      <pubDate>Sun, 24 May 2015 18:52:17 +0200</pubDate>
+      
+      <guid>http://humboldtux.github.io/sbcb-demo/post/post-10/</guid>
       <description></description>
     </item>
     
