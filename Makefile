@@ -5,9 +5,9 @@ server:
 	hugo server --watch --verbose -D -F
 
 public:
-	rm -rf public
+	git rm -rf public
 	hugo
-	git add public/
+	git add -A public/
 	git commit
 
 deploy:
