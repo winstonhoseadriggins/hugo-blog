@@ -4,7 +4,7 @@ canonifyurls = true
 paginate = 10
 theme = "startbootstrap-clean-blog"
 languageCode = "en"
-copyright = "Code released under the Apache 2.0 license.."
+copyright = "Code released under the Apache 2.0 license."
 
 [author]
     name = "Benoît Benedetti"
