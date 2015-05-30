@@ -35,23 +35,12 @@
     </item>
     
     <item>
-      <title>post 03</title>
-      <link>http://humboldtux.github.io/sbcb-demo/post/post-03/</link>
-      <pubDate>Sun, 24 May 2015 18:52:17 +0200</pubDate>
-      
-      <guid>http://humboldtux.github.io/sbcb-demo/post/post-03/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>post 01</title>
+      <title>Building a theme with Hugo</title>
       <link>http://humboldtux.github.io/sbcb-demo/post/post-01/</link>
-      <pubDate>Sun, 24 May 2015 18:52:17 +0200</pubDate>
+      <pubDate>Sun, 24 May 2015 18:53:17 +0200</pubDate>
       
       <guid>http://humboldtux.github.io/sbcb-demo/post/post-01/</guid>
       <description>
-
-&lt;h2 id=&#34;introduction:7d4d02899e156298a004206d378ff099&#34;&gt;Introduction&lt;/h2&gt;
 
 &lt;p&gt;This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.&lt;/p&gt;
 
@@ -1146,7 +1135,7 @@ $ vi themes/zafta/layouts/_default/single.html
     </item>
     
     <item>
-      <title>post 02</title>
+      <title>Second post</title>
       <link>http://humboldtux.github.io/sbcb-demo/post/post-02/</link>
       <pubDate>Sun, 24 May 2015 18:52:17 +0200</pubDate>
       
@@ -1155,18 +1144,27 @@ $ vi themes/zafta/layouts/_default/single.html
     </item>
     
     <item>
-      <title>post 04</title>
+      <title>Third post</title>
+      <link>http://humboldtux.github.io/sbcb-demo/post/post-03/</link>
+      <pubDate>Sun, 24 May 2015 18:52:17 +0201</pubDate>
+      
+      <guid>http://humboldtux.github.io/sbcb-demo/post/post-03/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fourth post</title>
       <link>http://humboldtux.github.io/sbcb-demo/post/post-04/</link>
-      <pubDate>Sun, 24 May 2015 18:52:17 +0200</pubDate>
+      <pubDate>Sun, 24 May 2015 18:52:17 +0202</pubDate>
       
       <guid>http://humboldtux.github.io/sbcb-demo/post/post-04/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>post 05</title>
+      <title>Five post</title>
       <link>http://humboldtux.github.io/sbcb-demo/post/post-05/</link>
-      <pubDate>Sun, 24 May 2015 18:52:17 +0200</pubDate>
+      <pubDate>Sun, 24 May 2015 18:52:17 +0204</pubDate>
       
       <guid>http://humboldtux.github.io/sbcb-demo/post/post-05/</guid>
       <description></description>
@@ -1175,25 +1173,16 @@ $ vi themes/zafta/layouts/_default/single.html
     <item>
       <title>post 06</title>
       <link>http://humboldtux.github.io/sbcb-demo/post/post-06/</link>
-      <pubDate>Sun, 24 May 2015 18:52:17 +0200</pubDate>
+      <pubDate>Sun, 24 May 2015 18:52:17 +0206</pubDate>
       
       <guid>http://humboldtux.github.io/sbcb-demo/post/post-06/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>post 09</title>
-      <link>http://humboldtux.github.io/sbcb-demo/post/post-09/</link>
-      <pubDate>Sun, 24 May 2015 18:52:17 +0200</pubDate>
-      
-      <guid>http://humboldtux.github.io/sbcb-demo/post/post-09/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>post 07</title>
       <link>http://humboldtux.github.io/sbcb-demo/post/post-07/</link>
-      <pubDate>Sun, 24 May 2015 18:52:17 +0200</pubDate>
+      <pubDate>Sun, 24 May 2015 18:52:17 +0207</pubDate>
       
       <guid>http://humboldtux.github.io/sbcb-demo/post/post-07/</guid>
       <description></description>
@@ -1202,16 +1191,25 @@ $ vi themes/zafta/layouts/_default/single.html
     <item>
       <title>post 08</title>
       <link>http://humboldtux.github.io/sbcb-demo/post/post-08/</link>
-      <pubDate>Sun, 24 May 2015 18:52:17 +0200</pubDate>
+      <pubDate>Sun, 24 May 2015 18:52:17 +0208</pubDate>
       
       <guid>http://humboldtux.github.io/sbcb-demo/post/post-08/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>post 09</title>
+      <link>http://humboldtux.github.io/sbcb-demo/post/post-09/</link>
+      <pubDate>Sun, 24 May 2015 18:52:17 +0209</pubDate>
+      
+      <guid>http://humboldtux.github.io/sbcb-demo/post/post-09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>post 10</title>
       <link>http://humboldtux.github.io/sbcb-demo/post/post-10/</link>
-      <pubDate>Sun, 24 May 2015 18:52:17 +0200</pubDate>
+      <pubDate>Sun, 24 May 2015 18:52:17 +0210</pubDate>
       
       <guid>http://humboldtux.github.io/sbcb-demo/post/post-10/</guid>
       <description></description>
