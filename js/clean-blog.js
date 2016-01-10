@@ -8,7 +8,7 @@
 
 $(function() {
 
-    $("input,textarea").jqBootstrapValidation({
+    $("#contactFrom input,#contactForm textarea").jqBootstrapValidation({
         preventSubmit: true,
         submitError: function($form, event, errors) {
             // additional error messages or events
@@ -26,7 +26,7 @@ $(function() {
                 firstName = name.split(' ').slice(0, -1).join(' ');
             }
             $.ajax({
-                url: "https://formspree.io/my@email.com",
+                url: "https://formspree.io/benoit.benedetti@gmail.com",
                 method: "POST",
                 data: {
                     name: name,
