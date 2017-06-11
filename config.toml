@@ -1,5 +1,5 @@
-baseurl = "http://humboldtux.github.io/sbcb-demo"
-title = "Start Bootstrap Clean Blog"
+baseurl = "http://winstonhoseadriggins.github.io/hugo-blog"
+title = "DW84 Inc LLC BLOGPAGE"
 canonifyurls = true
 paginate = 10
 theme = "startbootstrap-clean-blog"
@@ -7,21 +7,21 @@ languageCode = "en-us"
 copyright = "Code released under the Apache 2.0 license."
 
 [author]
-    name = "Benoît Benedetti"
+    name = "Winston Hosea Driggins"
 
 [params]
   DateForm = "Mon, Jan 2, 2006"
-  Description = "Your site description"
-  Author = "Benoît Benedetti"
-  email = "benoit.benedetti@gmail.com"
+  Description = "Everyone Has An Opinion!! Share Your Thoughts With A Blog!!"
+  Author = "Winston Hosea Driggins"
+  email = "wdriggins@gmail.com"
   Ganalytics = "XX-00000000-0"
 
 [[params.social]]
     title = "twitter"
-    url = "https://twitter.com/humboldtux"
+    url = "https://twitter.com/"
 [[params.social]]
     title = "github"
-    url = "https://github.com/humboldtux"
+    url = "https://github.com/winstonhoseadriggins"
 [[params.social]]
     title = "facebook"
     url = "https://www.facebook.com/FACEBOOKHANDLE"
